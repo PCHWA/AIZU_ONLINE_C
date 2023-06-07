@@ -12,7 +12,6 @@ int main(){
     return 0;
 }
 */
-
 int main(){
     int n, q, count;
     scanf("%d", &n);
@@ -33,6 +32,7 @@ int main(){
             }
         }
     }
+
     printf("%d", count);
     return 0;
 }
